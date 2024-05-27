@@ -18,5 +18,5 @@ Goggle Disk https://drive.google.com/drive/folders/1qiuA09E63GoY1k_gjGTMu6MPoTuq
 8. Vip Net Publication Service: "VIPNET_P.6\_____\SOFT" Файл: "SETUP"
 9. Vip Net Registration Point: "VIPNET_R.629\_____\SOFT" Файл: "SETUP"
 
-Карта подсетей находится по ссылке в Я.Диск, Goggle Disk или прикреплен на странице в GitHub
+Карта подсетей находится по ссылке в Я.Диск и Goggle Disk
 
