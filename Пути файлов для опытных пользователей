@@ -1,0 +1,11 @@
+Пути файлов для опытных пользователей которые могут работать без методички (ВНИМАНИЕ! Не помнишь методичку, не лезь по путям. Лучше делай все по методичке и будет хорошо)
+
+Visual C: "VipNet 7.R\SOFT_____000\SERVER_I\PACKAGES\Visual C" Файл: "VCREDIST"
+База данных SQL: "VipNet 7.R\SOFT____000\SERVER_I\PACKAGES\SQLEXPRE" Файл: "SQLEXPR"
+Vip Net administrator Server (ЦУС): "VipNet 7.R\SOFT_____000\SERVER_I\PACKAGES\RU_RU" Файл: "WINNCCSE"
+Vip Net Administrator Client (ЦУС): "VipNet 7.R\SOFT_____000\CLIENT_I\PACKAGES\RU_RU" Файл: "WINNCCCL"
+Vip Net Administrator (УКЦ): "VIPNET_A.7_R\SOFT_____" Файл: "SETUP"
+CA Informing: "VIPNET_C" Файл: "CA_INFOR"
+Vip Net Client: "VIPNET_C.5\SOFTWARE" Файл: "CLIENT_R"
+Vip Net Publication Service: "VIPNET_P.6_____\SOFT" Файл: "SETUP"
+Vip Net Registration Point: "VIPNET_R.629_____\SOFT" Файл: "SETUP"
